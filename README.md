@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
-Домашнее задание к курсу
-https://stepik.org/lesson/187065/step/7
+Домашнее задание к курсу автоматизация тестирования на степике
+https://stepik.org/course/575
